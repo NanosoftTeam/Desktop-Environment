@@ -1,2 +1,0 @@
-# Desktop-Environment
-Nanosoft Inside
